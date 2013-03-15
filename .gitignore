@@ -1,0 +1,4 @@
+*.pyc
+*.egg-info
+{{ project_name }}/local_settings.py
+{{ project_name }}/db/*
